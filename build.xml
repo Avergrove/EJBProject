@@ -1,0 +1,10 @@
+<project name="MyProject" >
+    <description>
+        simple example build file
+    </description>
+
+    <target name="deploy" >
+        <exec executable="openejb" dir="C:\openejb-3.0\bin">
+        </exec>
+    </target>
+</project>

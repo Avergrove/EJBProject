@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaee-api-5.0-1">
+    <CLASSES>
+      <root url="jar://C:/openejb-3.0/lib/javaee-api-5.0-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
